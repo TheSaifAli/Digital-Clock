@@ -22,12 +22,12 @@ h1{
 #appDiv:hover{
     
 }
-#heading{
+#clock{
     transform: translateX(-50%) translateY(-50%);
     position: absolute;
-    top: 45%;
+    top: 40%;
     left: 50%;
-    font-size:35px;
+    font-size:30px;
    
    
     font-family:Orbitron;
